@@ -1,0 +1,165 @@
+body {
+    font-family: 'Fira Sans';
+ margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+    line-height: 1.6;
+}
+
+.imginicio {
+    width: 60%;
+    height: 27%;
+    margin-left: 20%;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: #008ee0;
+    font-size: 30px;
+    margin: 0 auto;
+}
+
+.logo-equipo img {
+    width: 150px;
+    transition: transform 0.3s ease;
+}
+
+.logo-equipo img:hover {
+    transform: scale(1.1);
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #2ba4f0;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: black;
+}
+
+/* Estilo del contenedor principal */
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilo del título principal */
+h1 {
+    color: #00796b;
+    /* Verde oscuro */
+    margin-bottom: 40px;
+}
+
+/* Estilo para los perfiles */
+.profiles {
+    display: flex;
+    justify-content: space-between;
+    /* Espacio igual entre perfiles */
+}
+
+/* Estilo de cada perfil */
+.profile {
+    background-color: #ffffff;
+    /* Blanco */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 18%;
+    /* Ajusta el ancho para que 5 perfiles quepan en una línea */
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 1%;
+    /* Espacio entre perfiles */
+}
+
+/* Estilo del círculo de perfil */
+.circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 20px auto;
+    background-color: #b2ebf2;
+    /* Celeste más claro */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Estilo de las imágenes dentro del círculo */
+.circle img {
+    width: 100%;
+    height: auto;
+}
+
+/* Estilo de la descripción */
+.description {
+    padding: 10px 15px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.description h2 {
+    margin: 10px 0;
+    color: #004d40;
+    /* Verde más oscuro */
+}
+
+.description p {
+    color: #555;
+    font-size: 14px;
+    line-height: 1.6;
+}
+/*MISS*/
+.caja {
+    display: flex; 
+    align-items: center; 
+    gap: 20px; 
+    padding: 20px;
+    background-color: #f9f9f9; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+/* Estilo para la parte de la imagen */
+.imagen-lateral img {
+    width: 250px; 
+    height: auto; 
+    border-radius: 10px; 
+    object-fit: cover; 
+    margin: 40px;
+}
+
+/* Estilo para la parte del texto */
+.miss-cinthia {
+    flex: 1; /* El texto ocupa todo el espacio disponible */
+}
+
+.miss-cinthia h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.miss-cinthia p {
+    font-size: 16px;
+    line-height: 1.5;
+}
