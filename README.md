@@ -17,12 +17,17 @@ Ser un ejemplo de mujeres que incursionan dentro de la tecnología, con el logo 
 
 ## Partes: 
 
-### Inicio: Contiene datos curiosos sobre el Estudio Ghibli, ya sea las películas más destacadas, el personaje más influyente y como fueron los inicios del estudio.
+### Inicio: 
+Contiene datos curiosos sobre el Estudio Ghibli, ya sea las películas más destacadas, el personaje más influyente y como fueron los inicios del estudio.
 
-### Conocelos: Puedes incursionar dentro de la data por diversos medios para entrar a conocer cada una de ellas, por ejemplo, por medio del slide. Sus partes son:
+### Conocelos: 
+Puedes incursionar dentro de la data por diversos medios para entrar a conocer cada una de ellas, por ejemplo, por medio del slide. Sus partes son:
 
-### Películas: tiene las 22 películas que constituyen el Estudio Ghibli. Puedes filtrar  las películas por medio de un search (“búsqueda”), y con un solo click se abre una pestaña con mayor información de la película seleccionada; información como: descripción, productor, etc. Además, luego de terminar con esa persona, se da la opción de regresar para que vuelva a aperturar el catalogo de peliculas. 
+### Películas: 
+tiene las 22 películas que constituyen el Estudio Ghibli. Puedes filtrar  las películas por medio de un search (“búsqueda”), y con un solo click se abre una pestaña con mayor información de la película seleccionada; información como: descripción, productor, etc. Además, luego de terminar con esa persona, se da la opción de regresar para que vuelva a aperturar el catalogo de peliculas. 
 
-### Personajes: del total de personajes 
+### Personajes: 
+del total de personajes 
 
-### Nosotras: conoce sobre el equipo que estuvo detrás de la aplicación y la mentora que nos ayudó en la elaboración
+### Nosotras: 
+conoce sobre el equipo que estuvo detrás de la aplicación y la mentora que nos ayudó en la elaboración
