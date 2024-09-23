@@ -1,0 +1,324 @@
+{
+    "people": [
+      {
+        "id": "fe93adf2-2f3a-4ec4-9f68-5422f1b87c01",
+        "name": "Pazu",
+        "img": "https://static.wikia.nocookie.net/studio-ghibli/images/8/8b/Pazu.jpg",
+        "gender": "Male",
+        "age": "13",
+        "eye_color": "Black",
+        "hair_color": "Brown",
+        "specie": "Human"
+      },
+      {
+        "id": "598f7048-74ff-41e0-92ef-87dc1ad980a9",
+        "name": "Lusheeta Toel Ul Laputa",
+        "img": "https://static.wikia.nocookie.net/studio-ghibli/images/c/c3/Sheeta.jpg",
+        "gender": "Female",
+        "age": "13",
+        "eye_color": "Black",
+        "hair_color": "Black",
+        "specie": "Human"
+      },
+      {
+        "id": "3bc0b41e-3569-4d20-ae73-2da329bf0786",
+        "name": "Dola",
+        "img": "https://static.wikia.nocookie.net/studio-ghibli/images/b/b3/Dola.png",
+        "gender": "Female",
+        "age": "60",
+        "eye_color": "Black",
+        "hair_color": "Peach",
+        "specie": "Human"
+      },
+      {
+        "id": "abe886e7-30c8-4c19-aaa5-d666e60d14de",
+        "name": "Romska Palo Ul Laputa",
+        "img": "https://static.wikia.nocookie.net/studio-ghibli/images/d/d5/Muska.jpg",
+        "gender": "Male",
+        "age": "33",
+        "eye_color": "Black",
+        "hair_color": "Brown",
+        "specie": "Human"
+      },
+      {
+        "id": "e08880d0-6938-44f3-b179-81947e7873fc",
+        "name": "Uncle Pom",
+        "img": "https://static.wikia.nocookie.net/studio-ghibli/images/d/de/Uncle_Pom.png",
+        "gender": "Male",
+        "age": "Unspecified/Elderly",
+        "eye_color": "Black",
+        "hair_color": "White",
+        "specie": "Human"
+      },
+  {
+    "id": "8cb959a8-1959-42f3-bb33-07d7a2e6b830",
+    "name": "Seita Yokokawa",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/2/21/Seita_Yokokawa.jpg",
+    "gender": "Male",
+    "age": "14",
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "specie": "Human"
+  },
+  {
+    "id": "c344d561-6654-4aab-b0df-a1570e7e60cb",
+    "name": "Setsuko Yokokawa",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/a/a8/Setsuko_Yokokawa.jpg",
+    "gender": "Female",
+    "age": "4",
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "specie": "Human"
+  },
+  {
+    "id": "d0bb7b5f-3bf0-46c8-959d-0299b3252bd8",
+    "name": "Taeko Okajima",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/d/d4/Taeko_Okajima.png",
+    "gender": "Female",
+    "age": "27",
+    "eye_color": "Black",
+    "hair_color": "Brown",
+    "specie": "Human"
+  },
+  {
+    "id": "3f78eba1-f9b0-489b-8686-f4508cdf049d",
+    "name": "Toshio",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/5/5d/Toshio.jpg",
+    "gender": "Male",
+    "age": "Adult",
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "specie": "Human"
+  },
+  {
+    "id": "87e61451-3131-4d01-a3b3-558c9ee1c451",
+    "name": "Mrs. Okajima",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/1/18/Mrs._Okajima_%282%29.png",
+    "gender": "Female",
+    "age": "Middle age",
+    "eye_color": "Black",
+    "hair_color": "Light brown",
+    "specie": "Human"
+  },
+  {
+    "id": "0174e644-eddd-4cb7-8503-e0c21291d782",
+    "name": "Grandmother Okajima",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/0/0f/Grandmother_Okajima_%282%29.jpg",
+    "gender": "Female",
+    "age": "Elder",
+    "eye_color": "Black",
+    "hair_color": "Grey",
+    "specie": "Human"
+  },
+  {
+    "id": "a88cb7a4-fe4a-4d50-8d8b-c32449e298ba",
+    "name": "Nanako Okajima",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/c/c1/Nanako_Okajima.png",
+    "gender": "Female",
+    "age": "18",
+    "eye_color": "Black",
+    "hair_color": "Light brown",
+    "specie": "Human"
+  },
+  {
+    "id": "c8f02850-0c1f-499c-8b5e-d8ad16f3ecc4",
+    "name": "Yaeko Okajima",
+    "gender": "Female",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/a/a8/Yaeko_Okajima.jpg",
+    "age": "16",
+    "eye_color": "Black",
+    "hair_color": "Grey",
+    "specie": "Human"
+  },
+  {
+    "id": "6e960787-5a47-4178-a040-1ef5bf5e4a6c",
+    "name": "Tani Tsuneko",
+    "img": "https://www.anime-planet.com/images/characters/tani-tsuneko-100171.jpg",
+    "gender": "Female",
+    "age": "10",
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "specie": "Human"
+  },
+  {
+    "id": "cd86aeb2-4fd7-4119-8128-7060e0a68074",
+    "name": "Aiko",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/5/5d/Aiko.jpg",
+    "gender": "Female",
+    "age": "10",
+    "eye_color": "Black",
+    "hair_color": "Grey brown",
+    "specie": "Human"
+  },
+  {
+    "id": "3ab1e0de-4d41-4f67-b2d0-e16d0fef2e6c",
+    "name": "Toko",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/a/af/Toko.jpg",
+    "gender": "Female",
+    "age": "10",
+    "eye_color": "Black",
+    "hair_color": "Light brown",
+    "specie": "Human"
+  },
+  {
+    "id": "f4a85428-18b7-4199-ba5a-b6bcfb478e14",
+    "name": "Rie",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/0/00/Rie_01.png",
+    "gender": "Female",
+    "age": "10",
+    "eye_color": "Black",
+    "hair_color": "Grey",
+    "specie": "Human"
+  },
+  {
+    "id": "9298c4fe-a508-463f-aad7-d55742e9a4e5",
+    "name": "Okiyo",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/b/bd/Okiyo.jpg",
+    "gender": "Female",
+    "age": "Adult",
+    "eye_color": "Black",
+    "hair_color": "Brown",
+    "specie": "Raccoon Dog"
+  },
+  {
+    "id": "220c7498-c390-4456-b853-bac107d16ff7",
+    "name": "Seizaemon",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/d/d9/Seizaemon.jpg",
+    "gender": "Male",
+    "age": "Elder",
+    "eye_color": "Black",
+    "hair_color": "Grey",
+    "specie": "Raccoon Dog"
+  },
+  {
+    "id": "718f634a-ea92-4907-a262-5a71a0661dcd",
+    "name": "Oroku",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/0/07/Oroku.jpg",
+    "gender": "Female",
+    "age": "Elder",
+    "eye_color": "Black",
+    "hair_color": "Grey brown",
+    "specie": "Raccoon Dog"
+  },
+  {
+    "id": "7367f154-4d9b-4e3e-89cf-2bd55c4d817f",
+    "name": "Gonta",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/0/0b/Gonta.jpg",
+    "gender": "Male",
+    "age": "Adult",
+    "eye_color": "Black",
+    "hair_color": "Grey",
+    "specie": "Raccoon Dog"
+  },
+  {
+    "id": "041cad03-ad0d-4f80-aeaa-71f9f64334df",
+    "name": "Inugami Gyōbu",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/9/99/Inugami.jpg",
+    "gender": "Male",
+    "age": "Elder",
+    "eye_color": "Black",
+    "hair_color": "Grey brown",
+    "specie": "Raccoon Dog"
+  },
+  {
+    "id": "ba924631-068e-4436-b6de-f3283fa848f0",
+    "name": "Ashitaka",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/4/49/Ashitaka.jpg",
+    "gender": "Male",
+    "age": "17",
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "specie": "Human"
+  },
+  {
+    "id": "ebe40383-aad2-4208-90ab-698f00c581ab",
+    "name": "San",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/3/3f/San.jpg",
+    "gender": "Female",
+    "age": "16",
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "specie": "Human"
+  },
+  {
+    "id": "34277bec-7401-43fa-a00a-5aee64b45b08",
+    "name": "Eboshi",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/9/9f/Eboshi.png",
+    "gender": "Female",
+    "age": "Adult",
+    "eye_color": "Hazel",
+    "hair_color": "Black",
+    "specie": "Human"
+  },
+  {
+    "id": "91939012-90b9-46e5-a649-96b898073c82",
+    "name": "Jigo",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/7/79/Jigo_%282%29.jpg",
+    "gender": "Male",
+    "age": "Middle age",
+    "eye_color": "Black",
+    "hair_color": "Brown",
+    "specie": "Human"
+  },
+  {
+    "id": "20e3bd33-b35d-41e6-83a4-57ca7f028d38",
+    "name": "Kohroku",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/d/d1/Kohroku_gives.jpg",
+    "gender": "Male",
+    "age": "Adult",
+    "eye_color": "Black",
+    "hair_color": "Brown",
+    "specie": "Human"
+  },
+  {
+    "id": "8bccdc78-545b-49f4-a4c8-756163a38c91",
+    "name": "Gonza",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/4/42/Gonza_%282%29.jpg",
+    "gender": "Male",
+    "age": "Adult",
+    "eye_color": "Grey",
+    "hair_color": "Bald, but beard is Brown",
+    "specie": "Human"
+  },
+  {
+    "id": "116bfe1b-3ba8-4fa0-8f72-88537a493cb9",
+    "name": "Hii-sama",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/8/83/Hii-sama.jpg",
+    "gender": "Female",
+    "age": "Over 50",
+    "eye_color": "Brown",
+    "hair_color": "White",
+    "specie": "Human"
+  },
+  {
+    "id": "030555b3-4c92-4fce-93fb-e70c3ae3df8b",
+    "name": "Yakul",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/e/ef/Yakul.jpg",
+    "age": "Unknown",
+    "gender": "Male",
+    "eye_color": "Grey",
+    "hair_color": "Brown",
+    "specie": "Red elk"
+  },
+  {
+    "id": "ca568e87-4ce2-4afa-a6c5-51f4ae80a60b",
+    "name": "Shishigami",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/b/b7/Forest_Spirit.jpg",
+    "age": "400",
+    "gender": "Male",
+    "eye_color": "Red",
+    "hair_color": "Light Orange",
+    "specie": "Spirit"
+  },
+  {
+    "id": "e9356bb5-4d4a-4c93-aadc-c83e514bffe3",
+    "name": "Moro",
+    "img": "https://static.wikia.nocookie.net/studio-ghibli/images/5/5e/Moro.png",
+    "gender": "Female",
+    "age": "300",
+    "eye_color": "Brown",
+    "hair_color": "White",
+    "specie": "Wolf"
+  }
+]
+}
